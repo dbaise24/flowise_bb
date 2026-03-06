@@ -4,6 +4,12 @@ from dotenv import load_dotenv
 import os
 import httpx
 import json
+
+app = FastAPI(
+    title="Flowise_parse_test",
+    description=description,
+    summary="test",
+    version="1.0.0",
  
 load_dotenv()
  
