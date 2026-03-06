@@ -1,1 +1,5 @@
-
+httpx
+fastapi
+python-dotenv
+gunicorn
+vunicorn
